@@ -1,7 +1,7 @@
 body {
-    background-image: url("/assets/images/background1.jpg");
+    background-image: url("password-generator/assets/images/background1.jpg");
 }
 
 .jumbotron {
-    background-image: url("/assets/images/jumbotron1.jpg");
+    background-image: url("password-generator/assets/images/jumbotron1.jpg");
 }
